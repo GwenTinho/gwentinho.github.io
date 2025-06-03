@@ -9,7 +9,7 @@ email: quentin.schroeder@etu.u-paris.fr
 picture: img/profile.png
 picture-round: false
 side-by-side: true
-pronouns: They/Them
+pronouns: He/Him
 og-picture: https://qschroed.github.io/img/profile.jpg
 orcid: 0009-0001-8382-8158
 dblp: https://dblp.org/
