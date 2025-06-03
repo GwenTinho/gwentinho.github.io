@@ -6,7 +6,7 @@ description-meta: Master's student in Theoretical Computer Science
 og-url: https://qschroed.github.io
 location: LIPN Paris 13
 email: quentin.schroeder@etu.u-paris.fr
-picture: img/profile.jpg
+picture: img/profile.png
 picture-round: false
 side-by-side: true
 pronouns: They/Them
