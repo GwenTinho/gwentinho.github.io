@@ -31,7 +31,7 @@ Things that I like to babble about:
 - Automata Theory
 - Unreasonably Complicated Coffee making processes
 
-I am currently doing an M2 internship with Jonas Frey on Lax Idempotent monads. And I recently gave a talk about this at [LHC](https://smimram.gitlabpages.inria.fr/lhc/journees/2025/01/01/journees.html). The slides are available [here](https://gwentinho.github.io/files/talk-lhc.pdf).
+I am currently doing an M2 internship with [Jonas Frey](https://sites.google.com/site/jonasfreysite/) on Lax Idempotent monads. And I recently gave a talk about this at [LHC](https://smimram.gitlabpages.inria.fr/lhc/journees/2025/01/01/journees.html). The slides are available [here](https://gwentinho.github.io/files/talk-lhc.pdf).
 
 ## Talks
 
