@@ -12,9 +12,6 @@ side-by-side: true
 pronouns: He/Him
 og-picture: https://qschroed.github.io/img/profile.jpg
 orcid: 0009-0001-8382-8158
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
 mastodon: https://mathstodon.xyz/@qschroed
 github: gwentinho
 linkedin: https://www.linkedin.com/in/quentin-schroeder-0b2358211/
