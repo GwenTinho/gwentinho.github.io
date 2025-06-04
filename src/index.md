@@ -47,4 +47,4 @@ I am currently doing an M2 internship with [Jonas Frey](https://sites.google.com
 
 - 2020-2023: Bachelor in Computer Science at the University of Luxembourg
 - 2023 - 2024: M1 MPRI at Universié Paris Cité 
-- 2024 - now: M1 MPRI at Universié Paris Cité 
+- 2024 - now: M2 MPRI at Universié Paris Cité 
