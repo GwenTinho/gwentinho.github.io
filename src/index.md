@@ -31,20 +31,34 @@ Things that I like to babble about:
 - Automata Theory
 - Unreasonably Complicated Coffee making processes
 
-I am currently doing an M2 internship with [Jonas Frey](https://sites.google.com/site/jonasfreysite/) on Lax Idempotent monads. And I recently gave a talk about this at [LHC](https://smimram.gitlabpages.inria.fr/lhc/journees/2025/01/01/journees.html). The slides are available [here](https://gwentinho.github.io/files/talk-lhc.pdf).
+## Stuff I did:
+
+I did an [M1 project](https://gwentinho.github.io/files/report-rfsa.pdf) with [Daniela Petrisan](https://www.irif.fr/~petrisan/) about recovering residual finite state automata (RFSA) via the [functorial approach to automata](https://lmcs.episciences.org/6213), the ideas are what inspired the current internship.
+
+
+
+## What I do right now
+
+I am currently doing an M2 internship with [Jonas Frey](https://sites.google.com/site/jonasfreysite/) on Lax Idempotent monads. And I recently gave a talk about this at [LHC](https://smimram.gitlabpages.inria.fr/lhc/journees/2025/01/01/journees.html). Next week I will give a short talk on the same topic at [CT2025](https://conference.math.muni.cz/ct2025/)
 
 ## Talks
 
 ``` json {.papers}
 {
+  "title": "Mnemetic Lax Idempotent Monads and Compactness",
+  "authors": "Q.S.",
+  "venue":"CT2025 - Brno",
+},
+{
   "title": "Compactness for Lax Idempotent Monads",
   "authors": "Q.S.",
-  "venue":"LHC 2025 - Palaiseau"
+  "venue":"LHC 2025 - Palaiseau",
+  "url": "https://gwentinho.github.io/files/talk-lhc.pdf"
 }
 ```
 
 # Education
 
-- 2020-2023: Bachelor in Computer Science at the University of Luxembourg
+- 2020 - 2023: Bachelor in Computer Science at the University of Luxembourg
 - 2023 - 2024: M1 MPRI at Université Paris Cité 
 - 2024 - now: M2 MPRI at Université Paris Cité 
