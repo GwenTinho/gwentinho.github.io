@@ -39,7 +39,7 @@ I did an [M1 project](https://gwentinho.github.io/files/report-rfsa.pdf) with [D
 
 ## What I do right now
 
-I am currently doing an M2 internship with [Jonas Frey](https://sites.google.com/site/jonasfreysite/) on Lax Idempotent monads. And I recently gave a talk about this at [LHC](https://smimram.gitlabpages.inria.fr/lhc/journees/2025/01/01/journees.html). Next week I will give a short talk on the same topic at [CT2025](https://conference.math.muni.cz/ct2025/)
+I am currently doing an M2 internship with [Jonas Frey](https://sites.google.com/site/jonasfreysite/) on Lax Idempotent monads. And I recently gave a [talk](https://gwentinho.github.io/files/talk-lhc.pdf) about this at [LHC](https://smimram.gitlabpages.inria.fr/lhc/journees/2025/01/01/journees.html). Recently I gave a short talk on the same topic at [CT2025](https://conference.math.muni.cz/ct2025/), the slide are available [here](https://gwentinho.github.io/files/talk-ct2025.pdf).
 
 ## Talks
 
@@ -53,7 +53,6 @@ I am currently doing an M2 internship with [Jonas Frey](https://sites.google.com
   "title": "Compactness for Lax Idempotent Monads",
   "authors": "Q.S.",
   "venue":"LHC 2025 - Palaiseau",
-  "url": "https://gwentinho.github.io/files/talk-lhc.pdf"
 }
 ```
 
