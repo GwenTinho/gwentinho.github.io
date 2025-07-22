@@ -49,7 +49,7 @@ I will start my PhD in October at [LIPN](https://lipn.univ-paris13.fr/) with Jon
   "title": "Mnemetic Lax Idempotent Monads and Compactness",
   "authors": "Q.S.",
   "venue":"CT2025 - Brno",
-  "url": "https://gwentinho.github.io/files/talk-lhc.pdf"
+  "url": "https://gwentinho.github.io/files/talk_ct2025.pdf"
 },
 {
   "title": "Compactness for Lax Idempotent Monads",
