@@ -39,7 +39,8 @@ I did an [M1 project](https://gwentinho.github.io/files/report-rfsa.pdf) with [D
 
 ## What I do right now
 
-I am currently doing an M2 internship with [Jonas Frey](https://sites.google.com/site/jonasfreysite/) on Lax Idempotent monads. And I recently gave a [talk](https://gwentinho.github.io/files/talk-lhc.pdf) about this at [LHC](https://smimram.gitlabpages.inria.fr/lhc/journees/2025/01/01/journees.html). Recently I gave a short talk on the same topic at [CT2025](https://conference.math.muni.cz/ct2025/), the slide are available [here](https://gwentinho.github.io/files/talk-ct2025.pdf).
+I am currently doing an M2 internship with [Jonas Frey](https://sites.google.com/site/jonasfreysite/) on Lax Idempotent monads. I recently gave a few talks on this.
+I will start my PhD in October at [LIPN](https://lipn.univ-paris13.fr/) with Jonas Frey, [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/index.html) and [Damiano Mazza](https://lipn.univ-paris13.fr/~mazza/) on connecting Differential Cohesion and Differential Linear Logic.
 
 ## Talks
 
@@ -47,12 +48,14 @@ I am currently doing an M2 internship with [Jonas Frey](https://sites.google.com
 {
   "title": "Mnemetic Lax Idempotent Monads and Compactness",
   "authors": "Q.S.",
-  "venue":"CT2025 - Brno"
+  "venue":"CT2025 - Brno",
+  "url": "gwentinho.github.io/files/talk-ct2025.pdf"
 },
 {
   "title": "Compactness for Lax Idempotent Monads",
   "authors": "Q.S.",
-  "venue":"LHC 2025 - Palaiseau"
+  "venue":"LHC 2025 - Palaiseau",
+  "url":"https://gwentinho.github.io/files/talk-lhc.pdf"
 }
 ```
 
