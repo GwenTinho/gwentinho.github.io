@@ -47,12 +47,12 @@ I am currently doing an M2 internship with [Jonas Frey](https://sites.google.com
 {
   "title": "Mnemetic Lax Idempotent Monads and Compactness",
   "authors": "Q.S.",
-  "venue":"CT2025 - Brno",
+  "venue":"CT2025 - Brno"
 },
 {
   "title": "Compactness for Lax Idempotent Monads",
   "authors": "Q.S.",
-  "venue":"LHC 2025 - Palaiseau",
+  "venue":"LHC 2025 - Palaiseau"
 }
 ```
 
