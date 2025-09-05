@@ -35,7 +35,7 @@ Things that I like to babble about:
 
 I did an [M1 project](https://gwentinho.github.io/files/report-rfsa.pdf) with [Daniela Petrisan](https://www.irif.fr/~petrisan/) about recovering residual finite state automata (RFSA) via the [functorial approach to automata](https://lmcs.episciences.org/6213), the ideas are what inspired the current internship.
 
-I finished my [M2 internship](https://gwentinho.github.io/files/report-mnemetic.pdf) with Jonas Frey on lax-idempotent monads. The idea here was to understand what it means to be a generator with respect to a cocompletion. And use this to recover certain dualities from categorical logic and Stone duality.
+I finished my [M2 internship](https://gwentinho.github.io/files/report-mnemetic.pdf) with Jonas Frey on lax-idempotent monads. The idea here was to understand what it means to be a generator with respect to a cocompletion. And use this to recover certain dualities from categorical logic and Stone duality. And I am giving another talk on this at the [synthetic mathematics conference](https://conferences.cirm-math.fr/3377.html) at the [CIRM](https://www.cirm-math.fr/index.html).
 
 ## What I do right now
 
