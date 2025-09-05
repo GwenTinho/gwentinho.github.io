@@ -35,12 +35,11 @@ Things that I like to babble about:
 
 I did an [M1 project](https://gwentinho.github.io/files/report-rfsa.pdf) with [Daniela Petrisan](https://www.irif.fr/~petrisan/) about recovering residual finite state automata (RFSA) via the [functorial approach to automata](https://lmcs.episciences.org/6213), the ideas are what inspired the current internship.
 
-
+I finished my [M2 internship](https://gwentinho.github.io/files/report-mnemetic.pdf) with Jonas Frey on lax-idempotent monads. The idea here was to understand what it means to be a generator with respect to a cocompletion. And use this to recover certain dualities from categorical logic and Stone duality.
 
 ## What I do right now
 
-I am currently doing an M2 internship with [Jonas Frey](https://sites.google.com/site/jonasfreysite/) on Lax Idempotent monads. I recently gave a few talks on this.
-I will start my PhD in October at [LIPN](https://lipn.univ-paris13.fr/) with Jonas Frey, [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/index.html) and [Damiano Mazza](https://lipn.univ-paris13.fr/~mazza/) on connecting Differential Cohesion and Differential Linear Logic.
+I will start my PhD in October at [LIPN](https://lipn.univ-paris13.fr/) with [Jonas Frey](https://sites.google.com/site/jonasfreysite/), [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/index.html) and [Damiano Mazza](https://lipn.univ-paris13.fr/~mazza/) on connecting Differential Cohesion and Differential Linear Logic.
 
 ## Talks
 
@@ -63,4 +62,8 @@ I will start my PhD in October at [LIPN](https://lipn.univ-paris13.fr/) with Jon
 
 - 2020 - 2023: Bachelor in Computer Science at the University of Luxembourg
 - 2023 - 2024: M1 MPRI at Université Paris Cité 
-- 2024 - now: M2 MPRI at Université Paris Cité 
+- 2024 - 2025: M2 MPRI at Université Paris Cité
+- 2025 - Now : PhD in Theoretical Computer Science at Sorbonne Paris Nord 
+
+## Out of Context Hegel
+The quantum changes and becomes another quantum. -- G.W.F Hegel
