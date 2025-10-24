@@ -59,13 +59,12 @@ I finished my [M2 internship](https://gwentinho.github.io/files/report-mnemetic.
   "venue":"LHC 2025 - Palaiseau",
   "url":"https://gwentinho.github.io/files/talk-lhc.pdf"
 },
-
 {
   "title": "Talk: RFSA via Functors",
   "authors": "Q.S.",
   "venue":"Proof And Computation 2024 - Fischbachau",
   "url": "https://gwentinho.github.io/files/lightning-talk-pac.pdf"
-},
+}
 ```
 
 # Education
