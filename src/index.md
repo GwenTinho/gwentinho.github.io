@@ -25,9 +25,9 @@ Moien! I am a luxembourgish PhD student at [LIPN](https://lipn.univ-paris13.fr/)
 
 Things that I like to babble about:
 - Modal Type Theories mostly Real Cohesive Type Theory
-- Formal Category Theory (2-categories)
+- Formal Category Theory
 - Higher Category Theory
-- Foundations of mathematics
+- Foundations of Mathematics
 - Automata Theory
 - The Science of Logic
 - Unreasonably Complicated Coffee making processes
@@ -36,7 +36,7 @@ Things that I like to babble about:
 
 I did an [M1 project](https://gwentinho.github.io/files/report-rfsa.pdf) with [Daniela Petrisan](https://www.irif.fr/~petrisan/) about recovering residual finite state automata (RFSA) via the [functorial approach to automata](https://lmcs.episciences.org/6213), the ideas are what inspired the current internship.
 
-I finished my [M2 internship](https://gwentinho.github.io/files/report-mnemetic.pdf) with Jonas Frey on lax-idempotent monads. The idea here was to understand what it means to be a generator with respect to a cocompletion. And use this to recover certain dualities from categorical logic and Stone duality.
+I finished my [M2 internship](https://gwentinho.github.io/files/report-mnemetic.pdf) with Jonas Frey on lax-idempotent monads. The idea here was to understand what it means to be a generator with respect to a cocompletion, for example finitely presented objects come together with the Ind-completion. And use this to recover results such as Gabriel-Ulmer Duality and Priestley Duality.
 
 ## Talks
 
