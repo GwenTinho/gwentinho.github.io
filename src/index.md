@@ -5,7 +5,7 @@ shortbio: Master's student in Theoretical Computer Science
 description-meta: Master's student in Theoretical Computer Science
 og-url: https://qschroed.github.io
 location: LIPN Paris 13
-email: quentin.schroeder@etu.u-paris.fr
+email: schroeder@lipn.univ-paris13.fr
 picture: img/profile.png
 picture-round: false
 side-by-side: true
@@ -20,6 +20,8 @@ footer: >-
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
   made to be easy to use! 🎓
 ---
+
+!! I changed my email to the LIPN one !!
 
 Moien! I am a luxembourgish PhD student at [LIPN](https://lipn.univ-paris13.fr/) based in Paris. I am supervised by [Jonas Frey](https://sites.google.com/site/jonasfreysite/), [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/index.html) and [Damiano Mazza](https://lipn.univ-paris13.fr/~mazza/).
 
